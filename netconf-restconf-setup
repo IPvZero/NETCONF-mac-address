@@ -1,0 +1,6 @@
+username john priv 15 pass cisco
+restconf
+ip http server
+ip http authentication local
+ip http secure-server
+netconf-yang
