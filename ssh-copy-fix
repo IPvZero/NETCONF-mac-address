@@ -1,0 +1,1 @@
+sudo cp /etc/ssh/ssh_config /home/ipvzero/.ssh/config
